@@ -87,5 +87,5 @@ const ExchangeCard = ({ name, img, rank, url }) => (
     </VStack>
   </a>
 );
-
+  
 export default Exchanges;
